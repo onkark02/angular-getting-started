@@ -1,0 +1,16 @@
+##Pipes-
+	Transform bound properties before display
+	Built in pipes available eg. date
+	Symbol: |
+	Creating custom pipes 
+	@Pipe decorater
+	implement PipeTransform
+	transform method
+	
+##Nested components-
+	it has selector
+	its template only manages fragment of larger view
+	
+##Service 
+	provide shared data or logic across components
+	
